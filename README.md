@@ -56,7 +56,7 @@ Cada personagem é apresentado com imagem de fundo, nome e descrição.
 ## 🗂️ Estrutura de pastas
 
 ```
-projeto-dragonball/
+projeto-dragon-ball/
 ├── index.html
 ├── /src
 │   ├── /css
@@ -75,7 +75,7 @@ projeto-dragonball/
 
 ```bash
 git clone https://github.com/GabrielaBueno/Dragon-Ball.git
-cd projeto-dragonball
+cd projeto-dragon-ball
 ```
 Abra o arquivo `index.html` no seu navegador.
 
