@@ -100,5 +100,5 @@ Sinta-se à vontade para clonar, modificar e compartilhar!
 
 ## ✨ Agradecimentos
 
-Obrigado ao **Dev em Dobro** por mais uma semana cheia de aprendizado, desafios e diversão no mundo da programação! 🚀
+Obrigado ao **Dev em Dobro** por mais uma semana cheia de aprendizado, desafios e diversão no mundo da programação! 
 
