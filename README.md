@@ -1,6 +1,6 @@
 # Projeto Dragon Ball - Semana Dev em Dobro
 
-Este é um projeto desenvolvido durante a **Semana Dev em Dobro**, realizada entre os dias **31 de março e 06 de abril**, sempre às 20h, com os instrutores **Ricardo e Roberto Dias**.
+Este é um projeto desenvolvido durante a **Semana Dev em Dobro**, realizada entre os dias **31 de março e 06 de abril**, com os instrutores **Ricardo e Roberto Dias**.
 
 Durante essa semana intensa, aprendemos do zero a criar um site moderno e interativo com **HTML**, **CSS** e **JavaScript**. O projeto teve como tema um universo inspirado em Dragon Ball, com personagens fictícios do mundo da programação e segurança digital.
 
