@@ -74,7 +74,7 @@ projeto-dragonball/
 ## ▶️ Como executar o projeto
 
 ```bash
-git clone https://github.com/seu-usuario/projeto-dragonball.git
+git clone https://github.com/GabrielaBueno/Dragon-Ball.git
 cd projeto-dragonball
 ```
 Abra o arquivo `index.html` no seu navegador.
