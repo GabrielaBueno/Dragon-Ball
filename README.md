@@ -81,6 +81,10 @@ Abra o arquivo `index.html` no seu navegador.
 
 ---
 
+```Acesso
+https://gabrielabueno.github.io/Dragon-Ball/
+```
+
 ## 🧑‍🏫 Instrutores
 
 Este projeto foi guiado pelos irmãos do canal **Dev em Dobro**:
